@@ -2,3 +2,6 @@ Point-point:
 -konten html
 -konten css
 -konten javascript
+*konten corel
+*konten photoshop
+*konten blender
