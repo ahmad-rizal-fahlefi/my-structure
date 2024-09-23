@@ -6,5 +6,6 @@ Point-point:
 *konten photoshop
 *konten blender
 #konten adobe
-#konten dasar praktikum
-#otw juga
+#konten arduino
+#otw
+
