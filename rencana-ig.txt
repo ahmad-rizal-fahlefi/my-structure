@@ -1,6 +1,6 @@
 Point-point:
 -konten html
--konten css
+-konten css/layoting
 -konten javascript
 *konten corel
 *konten photoshop
@@ -8,3 +8,4 @@ Point-point:
 #konten adobe
 #konten arduino
 #otw
+
