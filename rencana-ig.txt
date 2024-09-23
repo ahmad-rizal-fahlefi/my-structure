@@ -1,10 +1,10 @@
 Point-point:
 -konten html
--konten css
+-konten css/layoting
 -konten javascript
 *konten corel
 *konten photoshop
 *konten blender
 #konten adobe
-#konten electro
-#lain menyusul
+#konten dasar praktikum
+#otw juga
